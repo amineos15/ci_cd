@@ -35,4 +35,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-username/your-repository:latest
+        tags: amineos15/ci_cd:latest
